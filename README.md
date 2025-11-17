@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/M-Nkirote/PyClopedia/blob/main/PyClopedia.png" alt="PyClopedia Logo" width="300">
+</p>
+
 #  ${\textsf{\color{#C25A7C}PyClopedia}}$ 
 
 ## ${\textsf{\color{#FFC0CB}🌟 Why This Repo Exists}}$
