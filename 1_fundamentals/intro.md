@@ -91,9 +91,10 @@ Important → Check: “Add Python to PATH”
 
 ### 🐧 Linux Installation (Ubuntu/Debian)
 
-1. Open your terminal:
+Open your terminal & run the codes:
 
 `sudo apt update`
+
 `sudo apt install python3 python3-pip`
 
 Check:
@@ -113,6 +114,7 @@ Then try:
 Press Enter.
 
 You just ran your first line of Python 🎉
+
 Exit Python with:
 
 `exit()`
