@@ -1,13 +1,13 @@
-# 🌸 PyClopedia — Fundamentals
+# <span style="color: #BE5985;"> 🌸 PyClopedia - Fundamentals</span>
 Your soft, friendly introduction to Python 💗
 
 Welcome to PyClopedia! 
 
-This section is your starting point — an approachable, beginner-friendly guide to understanding what Python is, why it matters, and how to set it up on your device.
+This section is your starting point - an approachable, beginner-friendly guide to understanding what Python is, why it matters, and how to set it up on your device.
 
-Learning should feel good — simple, calm, aesthetic — so this chapter brings clarity without overwhelm.
+Learning should feel good - simple, calm, aesthetic - so this chapter brings clarity without overwhelm.
 
-## 🐍 What is Python?
+## <span style="color: #EC7FA9;">🐍 What is Python?</span>
 
 Python is a high-level, general-purpose programming language known for:
 
@@ -15,12 +15,11 @@ Python is a high-level, general-purpose programming language known for:
 
 - Huge community support
 
-- Libraries for everything — AI, automation, data science, web dev, scripting
+- Libraries for everything - AI, automation, data science, web dev, scripting
 
 - Beginner-friendliness
 
 You can use Python to:
-
 - Build websites
 
 - Automate boring tasks
@@ -29,9 +28,9 @@ You can use Python to:
 
 - Train machine learning models
 
-- Create apps, APIs, bots, scripts — almost anything
+- Create apps, APIs, bots, scripts - almost anything
 
-## 🎀 Fun Facts About Python
+## <span style="color: #EC7FA9;"> 🎀 Fun Facts About Python</span>
 
 - Python was named after Monty Python, not the animal.
 
@@ -41,15 +40,15 @@ You can use Python to:
 
 - You don’t need semicolons. Your code is clean without them.
 
-- Python uses indentation (spaces) instead of braces {} — elegant and tidy.
+- Python uses indentation (spaces) instead of braces {} - elegant and tidy.
 
-## 🧰 Installing Python
+## <span style="color: #EC7FA9;">Installing Python</span>
 
 Below is a simple setup guide for Mac, Windows, and Linux.
 
-### 🍎 macOS Installation
+### <span style="color: #FFB8E0;">🍎 macOS Installation</span>
 
-macOS ships with Python 2 preinstalled (ignore it — it’s outdated).
+macOS ships with Python 2 preinstalled (ignore it - it’s outdated).
 
 #### ✅ Option 1: Install using Homebrew
 
@@ -73,7 +72,7 @@ You should see something like:
 
 > Python 3.12.0
 
-### 🪟 Windows Installation
+### <span style="color: #FFB8E0;">🪟 Windows Installation</span>
 
 1. Visit: https://www.python.org/downloads/windows/
 
@@ -89,7 +88,7 @@ Important → Check: “Add Python to PATH”
 
 `python --version`
 
-### 🐧 Linux Installation (Ubuntu/Debian)
+### <span style="color: #FFB8E0;">🐧 Linux Installation (Ubuntu/Debian)</span>
 
 Open your terminal & run the codes:
 
@@ -101,7 +100,7 @@ Check:
 
 `python3 --version`
 
-### 💗 Running Your First Python Program
+### <span style="color: #EC7FA9;">💗 Running Your First Python Program</span>
 
 Once Python is installed, open your terminal/shell and type:
 
